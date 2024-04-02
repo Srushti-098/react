@@ -1,4 +1,8 @@
+This is a very minimal react proj created due to amount of time shortage. I have demonstrated react skills here.
+
+
 # React + Vite
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
