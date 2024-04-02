@@ -7,32 +7,13 @@
 //useEffect(function, [dependancies]) is used for running some code when dom re renders, mounts, unmounts
 //used for event listeners, dom manipulation, subscriptions, fetching data from api, clean up when comp unmounts
 
-
-
-// import Card from './Card';
-// import Button from './Button';
-// import Student from './Student';
-// import UserGreeting from './UserGreeting';
-// import List from './List';
-// import Button1 from './Button1';
-// import ProfilePic from './ProfilePic';
-// import MyComponent from './MyComponent';
-// import Counter from './Counter.jsx';
-// import MyComponent1 from './MyComponent1.jsx';
-// import ColorPicker from './ColorPicker.jsx';
-// import MyComponent2  from './MyComponent2.jsx';
-// import MyComponent3 from './MyComponent3.jsx';
-// import MyComponent4 from './MyComponent4.jsx';
-// import ToDoList from './ToDoList.jsx';
-//import MyComponent5 from './MyComponent5.jsx';
-//import MyComponent6 from './MyComponent6.jsx';
-import DigitalClock from "./DigitalClock";
+import ToDoList from './ToDoList.jsx';
 
 function App() {
 
   return(
     <>
-       <DigitalClock></DigitalClock>
+    </ ToDoList.jsx>
     </>
   )
 }
